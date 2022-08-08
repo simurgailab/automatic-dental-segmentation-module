@@ -4,7 +4,7 @@
 # Citation
 If you use this research paper, please cite:
 
-Tekin, B. Y., Ozcan, C., Pekince, A., & Yasa, Y. (2022). An enhanced tooth segmentation and numbering according to FDI notation in bitewing radiographs. Computers in Biology and Medicine, 146, 105547.
+A. Karaoglu, C. Ozcan, A. Pekince, Y. Yaşa, B.Y. Tekin, D. Ozdemir, Automatic Dental Segmentation Module Supported by Artificial Intelligence for Dentistry Students Education, Artificial Intelligence Theory and Applications 1(2): 180-190 (Special Issue), 2021.
 
 ```
 @article{karaoglu2021artificial,
