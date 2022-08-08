@@ -13,7 +13,7 @@ Tekin, B. Y., Ozcan, C., Pekince, A., & Yasa, Y. (2022). An enhanced tooth segme
   journal= {Artificial Intelligence Theory and Applications},
   volume={1},
   pages={180--190},
-  year={2
+  year={2021}
 }
 ```
 
