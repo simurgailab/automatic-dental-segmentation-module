@@ -6,7 +6,7 @@ In this study, DentiAssist, a web-based radiological image analysis and labeling
 Labeling screen and segmentation module components has been shown in Figure 1.
 <figure>
 <p align="center">
-    <img src="labeling-screen.png">
+    <img src="labeling-screen.jpg">
 </p>
 <figcaption align="center"><b>Figure 1: Screen of labeling module.</b></figcaption>
 </figure>
